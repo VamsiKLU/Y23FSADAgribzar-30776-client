@@ -1,0 +1,42 @@
+.track-order-container {
+    text-align: center;
+    margin: 20px auto;
+    font-family: "Arial, sans-serif";
+  }
+  
+  .track-form {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .track-form input {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .track-form button {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .track-form button:hover {
+    background-color: #0056b3;
+  }
+  
+  .order-card {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    display: inline-block;
+    text-align: left;
+  }
+  

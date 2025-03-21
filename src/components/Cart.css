@@ -1,0 +1,35 @@
+.cart-container {
+    max-width: 600px;
+    margin: auto;
+    font-family: "Arial, sans-serif";
+  }
+  
+  .cart-items {
+    margin: 20px 0;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .cart-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+  }
+  
+  .cart-controls button {
+    padding: 5px 10px;
+    margin: 0 5px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .cart-controls button:hover {
+    background-color: #0056b3;
+  }
+  
